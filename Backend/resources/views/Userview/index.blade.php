@@ -1068,17 +1068,7 @@
       <script src="{{ asset('assets/js/chartsa166a166.js?ver=200') }}"></script>
       
       
-        <!-- Smartsupp Live Chat script -->
-        <script type="text/javascript">
-        var _smartsupp = _smartsupp || {};
-        _smartsupp.key = 'dddf947b2d14e0eed0db9665c53befdc9875b45e';
-        window.smartsupp||(function(d) {
-        var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-        s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-        c.type='text/javascript';c.charset='utf-8';c.async=true;
-        c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-        })(document);
-        </script>
+   
 
 
       {{-- <script type="text/javascript">
@@ -1095,18 +1085,8 @@
              var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
          })();
      </script> --}}
-     <script>!function(){var e,t,n,a;window.MyAliceWebChat||((t=document.createElement("div")).id="myAliceWebChat",(n=document.createElement("script")).type="text/javascript",n.async=!0,n.src="https://widget.myalice.ai/index.js",(a=(e=document.body.getElementsByTagName("script"))[e.length-1]).parentNode.insertBefore(n,a),a.parentNode.insertBefore(t,a),n.addEventListener("load",(function(){MyAliceWebChat.init({selector:"myAliceWebChat",number:"Tony_Perkins",message:"",color:"#2AABEE",channel:"tg",boxShadow:"none",text:"Message Us",theme:"light",position:"left",mb:"100px",mx:"20px",radius:"20px"})})))}();</script>
+     {{-- <script>!function(){var e,t,n,a;window.MyAliceWebChat||((t=document.createElement("div")).id="myAliceWebChat",(n=document.createElement("script")).type="text/javascript",n.async=!0,n.src="https://widget.myalice.ai/index.js",(a=(e=document.body.getElementsByTagName("script"))[e.length-1]).parentNode.insertBefore(n,a),a.parentNode.insertBefore(t,a),n.addEventListener("load",(function(){MyAliceWebChat.init({selector:"myAliceWebChat",number:"Tony_Perkins",message:"",color:"#2AABEE",channel:"tg",boxShadow:"none",text:"Message Us",theme:"light",position:"left",mb:"100px",mx:"20px",radius:"20px"})})))}();</script> --}}
      
-     <script type="text/javascript">
-        var _smartsupp = _smartsupp || {};
-        _smartsupp.key = '8e2e7411101ff24ed0535350b00dfe944d66b205';
-        window.smartsupp||(function(d) {
-          var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-          s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-          c.type='text/javascript';c.charset='utf-8';c.async=true;
-          c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-        })(document);
-        </script>
 
      
    </body>

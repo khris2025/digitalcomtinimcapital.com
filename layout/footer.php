@@ -92,7 +92,7 @@
  <script src="js/mailform/jquery.form.min.js"></script>
  <script src="js/mailform/jquery.rd-mailform.min.c.js"></script>
  <!-- start translate -->
- <script type="text/javascript">
+ <!-- <script type="text/javascript">
     (function() {
        var gtConstEvalStartTime = new Date();
        /*
@@ -165,11 +165,12 @@
           _loadJs(b + '/translate_static/js/element/main.js');
        })();
     })();
- </script>
+ </script> -->
+
  <!-- Smartsupp Live Chat script -->
  <script type="text/javascript">
     var _smartsupp = _smartsupp || {};
-    _smartsupp.key = 'd7b5bf1f142714558ad09292c70b2c3461cc7f24';
+    _smartsupp.key = 'ca07463e078da5966e1dd41a00af11e9be5d422c';
     window.smartsupp || (function(d) {
        var s, c, o = smartsupp = function() {
           o._.push(arguments)
@@ -185,6 +186,7 @@
     })(document);
  </script>
  <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
+
  <!-- end translate -->
  <!-- all js include end -->
  <!--telegram chat widget-->

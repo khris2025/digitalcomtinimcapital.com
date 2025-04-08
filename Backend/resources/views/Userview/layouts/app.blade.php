@@ -225,38 +225,44 @@
       </script>
       <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
       <!-- Right bar overlay-->
-      <div class="rightbar-overlay"></div>
-       <!-- JAVASCRIPT -->
-        <script>
-            feather.replace()
-        </script>
-        <script src=" {{asset('assets/libs/jquery/jquery.min.js')}} "></script>
-        <script src=" {{asset('assets/libs/bootstrap/js/bootstrap.bundle.min.js')}} "></script>
-        <script src="{{asset('assets/libs/metismenu/metisMenu.min.js')}} "></script>
-        <script src="{{asset('assets/libs/simplebar/simplebar.min.js')}} "></script>
-        <script src="{{asset('assets/libs/node-waves/waves.min.js')}} "></script>
+      <div class="rightbar-overlay">
+
+      </div>
+      <!-- JAVASCRIPT -->
+      <script>
+         feather.replace()
+      </script>
+      <script src=" {{asset('assets/libs/jquery/jquery.min.js')}} "></script>
+      <script src=" {{asset('assets/libs/bootstrap/js/bootstrap.bundle.min.js')}} "></script>
+      <script src="{{asset('assets/libs/metismenu/metisMenu.min.js')}} "></script>
+      <script src="{{asset('assets/libs/simplebar/simplebar.min.js')}} "></script>
+      <script src="{{asset('assets/libs/node-waves/waves.min.js')}} "></script>
 
 
+      
+      <!-- Plugins js-->
+      <script src="{{asset('assets/libs/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.min.js')}} "></script>
+      <script src="{{asset('assets/libs/admin-resources/jquery.vectormap/maps/jquery-jvectormap-world-mill-en.js')}} "></script>
+      <!-- dashboard init -->
+      <script src="{{asset('assets/js/pages/dashboard.init.js')}} "></script>
+      <script src="{{asset('assets/js/app.js')}} "></script>  
+
+
+
+      <!-- Smartsupp Live Chat script -->
+      <script type="text/javascript">
+      var _smartsupp = _smartsupp || {};
+      _smartsupp.key = 'ca07463e078da5966e1dd41a00af11e9be5d422c';
+      window.smartsupp||(function(d) {
+      var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+      s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+      c.type='text/javascript';c.charset='utf-8';c.async=true;
+      c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+      })(document);
+      </script>
+      <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
         
-        <!-- Plugins js-->
-        <script src="{{asset('assets/libs/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.min.js')}} "></script>
-        <script src="{{asset('assets/libs/admin-resources/jquery.vectormap/maps/jquery-jvectormap-world-mill-en.js')}} "></script>
-        <!-- dashboard init -->
-        <script src="{{asset('assets/js/pages/dashboard.init.js')}} "></script>
-        <script src="{{asset('assets/js/app.js')}} "></script>  
         
-        <!-- Smartsupp Live Chat script -->
-        <script type="text/javascript">
-        var _smartsupp = _smartsupp || {};
-        _smartsupp.key = '506c747cca9661388d60c06f31f738a858e3365e';
-        window.smartsupp||(function(d) {
-          var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-          s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-          c.type='text/javascript';c.charset='utf-8';c.async=true;
-          c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-        })(document);
-        </script>
-        <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
        
 
 
