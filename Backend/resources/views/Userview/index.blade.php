@@ -5,7 +5,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
      
-      <title>Comtinuum Capital Trading | Crypto Investment &amp; Best Cryptocurrency Investment Platform</title>
+      <title>Digital Comtinim Capital | Crypto Investment &amp; Best Cryptocurrency Investment Platform</title>
       <!-- Bundle and Base CSS -->
       <link rel="stylesheet" href="{{ asset('assets/css/vendor.bundlea166a166.css?ver=200') }}">
       <link rel="stylesheet" href="{{ asset('assets/css/stylea166a166.css?ver=200') }}">
@@ -110,7 +110,7 @@
                               <div class="col-lg-6 text-center text-lg-start">
                                  <div class="banner-caption cpn tc-light">
                                     <div class="cpn-head">
-                                       <h1 class="title title-xl-2 title-lg title-semibold animated" data-animate="fadeInUp" data-delay="1.35">#1 Best Trading Platform Powered By Comtinuum Capital Trading</h1>
+                                       <h1 class="title title-xl-2 title-lg title-semibold animated" data-animate="fadeInUp" data-delay="1.35">#1 Best Trading Platform Powered By Digital Comtinim Capital</h1>
                                     </div>
                                     <div class="cpn-text">
                                        <p class="lead-s2 animated" data-animate="fadeInUp" data-delay="1.45">Simple Trade-Investment Platform which uses Automated Copy-trading method to help users get returns from their investments </p>
@@ -170,9 +170,9 @@
                      <div class="row align-items-center gutter-vr-30px pdb-x">
                         <div class="col-lg-6">
                            <div class="nk-block-text">
-                              <h2 class="title animated" data-animate="fadeInUp" data-delay=".1">About Comtinuum Capital Trading Company</h2>
+                              <h2 class="title animated" data-animate="fadeInUp" data-delay=".1">About Digital Comtinim Capital Company</h2>
                               <p class="animated" data-animate="fadeInUp" data-delay=".3">If you're a beginner, an expert, or a busy person who has no time to monitor trade graph but looking at exploring the trade market and making extra income? Crypto Coin is your answer. We are a young, dynamic, multi-cultural team offering unique, out-of-the-box international trading solutions based on in-depth knowledge of competent traders.</p>
-                              <p class="animated" data-animate="fadeInUp" data-delay=".4">Counting on Comtinuum Capital Trading as your preferred investment trader will give you the advantage of growing more income in shorter time. We have impeccable trade record, vast experience, professionalism and transparency to help grow trading dreams that may exceeds your expectations.</p>
+                              <p class="animated" data-animate="fadeInUp" data-delay=".4">Counting on Digital Comtinim Capital as your preferred investment trader will give you the advantage of growing more income in shorter time. We have impeccable trade record, vast experience, professionalism and transparency to help grow trading dreams that may exceeds your expectations.</p>
                               <p class="animated" data-animate="fadeInUp" data-delay=".4">Our expertise includes finding the right stock market to invest in, developing trading strategies, building FX-Bots for easy trade using compiled algorithms from competent traders, and trade-investment. We commit ourselves to providing clients with the strongest foundation that can only guarantee an absolute success..</p>
                            </div>
                         </div>
@@ -187,7 +187,7 @@
                   <!-- .block @e -->
                   <!-- Section Head @s -->
                   <div class="section-head">
-                     <h2 class="title title-lg animated" data-animate="fadeInUp" data-delay=".6">Key features of Comtinuum Capital Trading Trade-Investments</h2>
+                     <h2 class="title title-lg animated" data-animate="fadeInUp" data-delay=".6">Key features of Digital Comtinim Capital Trade-Investments</h2>
                   </div>
                   <!-- .section-head @e -->
                   <!-- Block @s -->
@@ -211,7 +211,7 @@
                               </div>
                               <div class="feature-text">
                                  <h5 class="title title-sm tc-primary">Most credible traders</h5>
-                                 <p>Comtinuum Capital Trading competent and credible traders provide all necessary copy-trading strategies compiled into a credible FX-Bot (trade-robot) that grows every user investment. </p>
+                                 <p>Digital Comtinim Capital competent and credible traders provide all necessary copy-trading strategies compiled into a credible FX-Bot (trade-robot) that grows every user investment. </p>
                               </div>
                            </div>
                         </div>
@@ -436,7 +436,7 @@
                                     <div class="team-popup-info ps-md-3">
                                        <h3 class="team-name title title-lg pt-4">Deborah Sekks</h3>
                                        <p class="team-position">Reliable investments and quick source for stock information</p>
-                                       <p>Comtinuum Capital Trading Company Trade-Invest is a website where you can invest on affordable plans and get all sorts of information about investing (obviously). From news on the stock exchanges from all over the world (where there is an obvious emphasis on the US markets) to currencies, cryptos, Forex and regular commodities.</p>
+                                       <p>Digital Comtinim Capital Company Trade-Invest is a website where you can invest on affordable plans and get all sorts of information about investing (obviously). From news on the stock exchanges from all over the world (where there is an obvious emphasis on the US markets) to currencies, cryptos, Forex and regular commodities.</p>
                                        <p>Despite the fact that I'm a Dutch user and the Dutch stock exchange (AEX / AMX) isn't exactly well known I still get a lot of good information which helps me to base my decisions on regarding my AEX portfolio.</p>
                                     </div>
                                  </div>
@@ -470,7 +470,7 @@
                                     <div class="team-popup-info ps-md-3">
                                        <h3 class="team-name title title-lg pt-4">Naomi Lynch</h3>
                                        <p class="team-position">They've got affordable plans</p>
-                                       <p>Using Comtinuum Capital Trading Trade-Investment, I've traded several times on both sides of the transaction. Even when I've entered the wrong reference, it's always worked within minutes, so it's a fast and reliable system. Also, the prices are usually the lowest here! </p>
+                                       <p>Using Digital Comtinim Capital Trade-Investment, I've traded several times on both sides of the transaction. Even when I've entered the wrong reference, it's always worked within minutes, so it's a fast and reliable system. Also, the prices are usually the lowest here! </p>
                                        <p>I do highly recommend to anyone seeking to earn via trading without knowing the basis.</p>
                                     </div>
                                  </div>
@@ -504,7 +504,7 @@
                                     <div class="team-popup-info ps-md-3">
                                        <h3 class="team-name title title-lg pt-4">Magnum Haynes</h3>
                                        <p class="team-position">This is an excellent notion.</p>
-                                       <p>This is an excellent notion. It's encouraging to see a platform that tries to make one's investment as transparent as possible, from percent performance to news updates. Comtinuum Capital Trading Company Trade-Investment, please keep up the good work and many thanks.</p>
+                                       <p>This is an excellent notion. It's encouraging to see a platform that tries to make one's investment as transparent as possible, from percent performance to news updates. Digital Comtinim Capital Company Trade-Investment, please keep up the good work and many thanks.</p>
                                     </div>
                                  </div>
                                  <!-- .col  -->
@@ -546,10 +546,10 @@
                               <div class="tab-pane fade show active" id="general-questions">
                                  <div class="accordion accordion-s2 accordion-faq" id="faq-1">
                                     <div class="accordion-item animated" data-animate="fadeInUp" data-delay=".1">
-                                       <h5 class="accordion-title accordion-title-sm" data-bs-toggle="collapse" data-bs-target="#faq-1-1">What is Comtinuum Capital Trading Company Trade-investments? <span class="accordion-icon"></span></h5>
+                                       <h5 class="accordion-title accordion-title-sm" data-bs-toggle="collapse" data-bs-target="#faq-1-1">What is Digital Comtinim Capital Company Trade-investments? <span class="accordion-icon"></span></h5>
                                        <div id="faq-1-1" class="collapse show" data-bs-parent="#faq-1">
                                           <div class="accordion-content">
-                                             <p>Comtinuum Capital Trading Company is a trade-investment company designed to help investors who have no knowledge of trading to make extra profit in the market. Comtinuum Capital Trading Company Option are also known as Forex Options or Currency (Cryptocurrency) Options. They are derivative financial instruments, in particular, Forex derivatives. The Forex Finance Option market is the options market with the highest depth and liquidity in the World. Market participants can use different strategies for limiting risks and increasing profits.</p>
+                                             <p>Digital Comtinim Capital Company is a trade-investment company designed to help investors who have no knowledge of trading to make extra profit in the market. Digital Comtinim Capital Company Option are also known as Forex Options or Currency (Cryptocurrency) Options. They are derivative financial instruments, in particular, Forex derivatives. The Forex Finance Option market is the options market with the highest depth and liquidity in the World. Market participants can use different strategies for limiting risks and increasing profits.</p>
                                           </div>
                                        </div>
                                     </div>
@@ -973,7 +973,7 @@
                         <div class="row justify-content-center">
                            <div class="col-lg-7">
                               <div class="copyright-text copyright-text-s3">
-                                 <p><span class="d-block">Copyright &copy; 2022, Comtinuum Capital Trading Company Trade-Investment By <a href="#">Comtinuum Capital Trading Company</a></span></p>
+                                 <p><span class="d-block">Copyright &copy; 2022, Digital Comtinim Capital Company Trade-Investment By <a href="#">Digital Comtinim Capital Company</a></span></p>
                               </div>
                            </div>
                            <div class="col-lg-5 text-lg-end">

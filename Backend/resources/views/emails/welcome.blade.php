@@ -40,7 +40,7 @@
             <p>If the button above doesn't work, you can also copy and paste the following link into your browser:</p>
             <p>{{ route('verify_email', ['token' => $token]) }}</p>
             <p>Thank you for becoming a part of our community!</p>
-            <p>Sincerely,<br> Comtinuum Capital Trading</p>
+            <p>Sincerely,<br> Digital Comtinim Capital</p>
         </div>
     </div>
 </body>

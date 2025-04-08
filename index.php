@@ -45,7 +45,7 @@ include('layout/header.php');
 <section>
     <div class="container">
         <div class="section-heading">
-            <span>Welcome To Comtinuum Capital Trading</span>
+            <span>Welcome To Digital Comtinim Capital</span>
             <h3>What We Do</h3>
             <p class="width-55 sm-width-75 xs-width-95">We are an investment company, using blockchain technology to drive secure and profitable investments and manage portfolios for our clients. We take our client's financial dreams and make them a reality.</p>
         </div>
@@ -90,17 +90,17 @@ include('layout/header.php');
         <div class="row">
             <div class="col-lg-6 col-md-12 sm-margin-30px-bottom">
                 <div class="padding-30px-right">
-                    <h4 class="font-weight-600">ABOUT Comtinuum Capital Trading</h4>
+                    <h4 class="font-weight-600">ABOUT Digital Comtinim Capital</h4>
                     <p class="margin-10px-bottom"><span class="font-weight-600">“Frontier in the fintech space, we have shown the way others now follow.”</span> and have maintained the status of 'first' in many dimensions of the investment space.
                     </p>
-                    <p class="margin-30px-bottom sm-margin-25px-bottom xs-margin-20px-bottom">Comtinuum Capital Trading is a blockchain-based investment company created to help the average person reach her/his finanical dream.</p>
+                    <p class="margin-30px-bottom sm-margin-25px-bottom xs-margin-20px-bottom">Digital Comtinim Capital is a blockchain-based investment company created to help the average person reach her/his finanical dream.</p>
                     <div class="aboutus-text border-left margin-30px-bottom sm-margin-25px-bottom xs-margin-20px-bottom">
                         <i class="fas fa-quote-left padding-30px-left xs-padding-20px-left opacity2"></i>
-                        <p class="padding-30px-left xs-padding-20px-left no-margin">At Comtinuum Capital Trading, we take resposibility for investor's success and portfolio performance</p>
+                        <p class="padding-30px-left xs-padding-20px-left no-margin">At Digital Comtinim Capital, we take resposibility for investor's success and portfolio performance</p>
                         <span class="padding-30px-left xs-padding-20px-left text-theme-color">
                             Founder</span>
                     </div>
-                    <p class="no-margin-bottom">Comtinuum Capital Trading builds and manages portfolios tailored to the investor's financial needs, and deploys technology with expertise to ensure these finanical goals are met.</p>
+                    <p class="no-margin-bottom">Digital Comtinim Capital builds and manages portfolios tailored to the investor's financial needs, and deploys technology with expertise to ensure these finanical goals are met.</p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
@@ -126,7 +126,7 @@ include('layout/header.php');
         <div class="section-heading">
             <span>How To Join</span>
             <h3>Investor Onboarding Process</h3>
-            <p class="width-55 sm-width-75 xs-width-95">Here's a description of how you can join us at Comtinuum Capital Trading. Our work process is simple and direct, and laced with expertise.</p>
+            <p class="width-55 sm-width-75 xs-width-95">Here's a description of how you can join us at Digital Comtinim Capital. Our work process is simple and direct, and laced with expertise.</p>
         </div>
     </div>
     <div class="container-fluid no-padding sm-padding-15px-lr">
@@ -149,7 +149,7 @@ include('layout/header.php');
                             <div class="col-lg-6">
                                 <div class="padding-30px-left md-padding-20px-left sm-no-padding-left">
                                     <h5>Register A New Account</h5>
-                                    <p>To join us at Comtinuum Capital Trading, you first have to register for a new account. To register, click the SIGNUP button at the top of the page and fill the simple form.</p>
+                                    <p>To join us at Digital Comtinim Capital, you first have to register for a new account. To register, click the SIGNUP button at the top of the page and fill the simple form.</p>
                                     <ul class="list-style-16">
                                         <li>Free to Register</li>
                                         <li>Referral Bonus</li>
@@ -463,7 +463,7 @@ include('layout/header.php');
                 <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                     <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">My husband and I
                         have tried a couple of investment companies in the past; many couldn't deliver on their promises,
-                        so when we tried Comtinuum Capital Trading, i didn't really expect much, but when we started seeing our profits
+                        so when we tried Digital Comtinim Capital, i didn't really expect much, but when we started seeing our profits
                         I was so excited I had to tell all my friends. Thank you.
                     </p>
                     <!---<img src="img/testmonials/t-1.jpg" class="rounded-circle" alt="" />-->
@@ -472,7 +472,7 @@ include('layout/header.php');
                 <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                     <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">Investing is necessary!
                         Working for a paycheck all your life is no good, especially at retirement. This realization led
-                        me to seek out ways to increase my savings, and that's when I found Comtinuum Capital Trading. Payouts are
+                        me to seek out ways to increase my savings, and that's when I found Digital Comtinim Capital. Payouts are
                         amazingly fast and easy!.
                     </p>
                     <!---<img src="img/testmonials/t-2.jpg" class="rounded-circle" alt="" />-->
@@ -480,7 +480,7 @@ include('layout/header.php');
                 </div>
                 <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                     <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">As a researcher, I spend time mostly
-                        in the field, seeking answers. Having an investment with Comtinuum Capital Trading has assured me steady weekly
+                        in the field, seeking answers. Having an investment with Digital Comtinim Capital has assured me steady weekly
                         income in terms of profits from my investment.
                         I recommend this company!.
                     </p>
@@ -554,7 +554,7 @@ include('layout/header.php');
                             </div>
                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                 <div class="card-body bg-white">
-                                    We're flexible at Comtinuum Capital Trading. Our investment capitals are adapted to investor
+                                    We're flexible at Digital Comtinim Capital. Our investment capitals are adapted to investor
                                     needs, and to the stipulated plans we have written out in our <a href="pricing.html">Pricing page</a>.
                                     To see the default plans, go over to the <a href="pricing.html">Pricing page</a> from the menu and select
                                     a plan that suits your budget and financial goals. But if you want a special

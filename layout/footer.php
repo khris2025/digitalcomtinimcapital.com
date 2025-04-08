@@ -3,8 +3,8 @@
     <div class="container">
        <div class="row">
           <div class="col-lg-4 col-md-6 sm-margin-30px-bottom">
-             <!-- <img alt="footer-logo" src="img/logos/Comtinuum Capital Trading.png"> -->
-             <p class="margin-25px-top margin-20px-bottom text-white">Comtinuum Capital Trading builds and manages portfolios tailored to the investor's financial needs, and deploys technology with expertise to ensure these finanical goals are met..</p>
+             <!-- <img alt="footer-logo" src="img/logos/Digital Comtinim Capital.png"> -->
+             <p class="margin-25px-top margin-20px-bottom text-white">Digital Comtinim Capital builds and manages portfolios tailored to the investor's financial needs, and deploys technology with expertise to ensure these finanical goals are met..</p>
              <a href="about.php" class="butn white small"><span>Read More</span></a>
           </div>
           <div class="col-lg-4 col-md-6 sm-margin-30px-bottom">
@@ -34,7 +34,7 @@
        </div>
        <div class="footer-bar">
           <div class="container">
-             <p class="xs-font-size13">&copy; - 2025 Comtinuum Capital Trading COMPANY</p>
+             <p class="xs-font-size13">&copy; - 2025 Digital Comtinim Capital COMPANY</p>
           </div>
        </div>
  </footer>
@@ -166,18 +166,25 @@
        })();
     })();
  </script>
-<!-- Smartsupp Live Chat script -->
-<script type="text/javascript">
-var _smartsupp = _smartsupp || {};
-_smartsupp.key = 'd7b5bf1f142714558ad09292c70b2c3461cc7f24';
-window.smartsupp||(function(d) {
-  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
-  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
-  c.type='text/javascript';c.charset='utf-8';c.async=true;
-  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
-})(document);
-</script>
-<noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
+ <!-- Smartsupp Live Chat script -->
+ <script type="text/javascript">
+    var _smartsupp = _smartsupp || {};
+    _smartsupp.key = 'd7b5bf1f142714558ad09292c70b2c3461cc7f24';
+    window.smartsupp || (function(d) {
+       var s, c, o = smartsupp = function() {
+          o._.push(arguments)
+       };
+       o._ = [];
+       s = d.getElementsByTagName('script')[0];
+       c = d.createElement('script');
+       c.type = 'text/javascript';
+       c.charset = 'utf-8';
+       c.async = true;
+       c.src = 'https://www.smartsuppchat.com/loader.js?';
+       s.parentNode.insertBefore(c, s);
+    })(document);
+ </script>
+ <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript>
  <!-- end translate -->
  <!-- all js include end -->
  <!--telegram chat widget-->
@@ -187,7 +194,7 @@ window.smartsupp||(function(d) {
  <div class="elfsight-app-05082fc1-0e8d-4a71-b05d-7c668b1b3117"></div>
  <!--end telegram chat widget-->
  </body>
- <!-- Mirrored from Comtinuum Capital Trading.com/en/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 May 2023 17:27:14 GMT -->
- <!-- Mirrored from Comtinuum Capital Trading.com/en/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Nov 2023 11:37:36 GMT -->
+ <!-- Mirrored from Digital Comtinim Capital.com/en/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 May 2023 17:27:14 GMT -->
+ <!-- Mirrored from Digital Comtinim Capital.com/en/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Nov 2023 11:37:36 GMT -->
 
  </html>

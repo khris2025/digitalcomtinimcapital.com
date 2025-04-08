@@ -37,7 +37,7 @@
             <p>Please contact our support team for more information and assistance.</p>
             <p>Your account balance remains unchanged.</p>
             <p>Thank you for choosing our services!</p>
-            <p>Sincerely,<br> Comtinuum Capital Trading</p>
+            <p>Sincerely,<br> Digital Comtinim Capital</p>
         </div>
     </div>
 </body>

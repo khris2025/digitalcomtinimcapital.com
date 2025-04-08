@@ -7,7 +7,7 @@ include('layout/header.php');
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Comtinuum Capital Trading</h1>
+                <h1>Digital Comtinim Capital</h1>
             </div>
         </div>
     </div>
@@ -18,7 +18,7 @@ include('layout/header.php');
     <div class="container">
         <h3>FAQ.</h3>
         <br>
-        <p align=justify> <b>Which e-currencies do Comtinuum Capital Trading accept?</b><br>
+        <p align=justify> <b>Which e-currencies do Digital Comtinim Capital accept?</b><br>
             We accept Bitcoin, Ethereum, Litecoin and Dogecoin<br>
             <br>
             <b>What if I can't log into my account because I forgot my password?</b><br>
@@ -27,10 +27,10 @@ include('layout/header.php');
             <br>
             <br>
             <b>Does a daily profit paid directly to my currency account?</b><br>
-            Yes, profits are gathered on your Comtinuum Capital Trading account and you can withdraw them after Seven(7) days. <br>
+            Yes, profits are gathered on your Digital Comtinim Capital account and you can withdraw them after Seven(7) days. <br>
             <br>
             <b>Can I do a direct deposit from my account balance?</b><br>
-            Yes! To make a deposit from your Comtinuum Capital Trading account balance. Simply login into your members account and click on Make Deposit and select Deposit from Account Balance. Has no charges for it!<br>
+            Yes! To make a deposit from your Digital Comtinim Capital account balance. Simply login into your members account and click on Make Deposit and select Deposit from Account Balance. Has no charges for it!<br>
             <br>
             <b>After I make a withdrawal request, when will the funds be available on my ecurrency account?</b><br>
             Funds are automated and instantly processed to your wallet after your withdrawal. <br>
@@ -39,7 +39,7 @@ include('layout/header.php');
             You can change your password directly from your dashboard by editing it in your profile. You can as well activate Two factor Authentication on your profile too. <br>
             <br>
             <b>Can I lose money?</b><br>
-            We have developed the best investment solution for all cryptocurrency investors to benefit from. Comtinuum Capital Trading is a long term investment company which has been established to help every investor around the world to earn profits by investing. <br>
+            We have developed the best investment solution for all cryptocurrency investors to benefit from. Digital Comtinim Capital is a long term investment company which has been established to help every investor around the world to earn profits by investing. <br>
             <br>
             <b>How can I check my account balances?</b><br>
             You can access the account information 24/7 <br>
@@ -48,9 +48,9 @@ include('layout/header.php');
             No! Multiple account isn’t allowed but you can make multiple deposit on same account. <br>
             <br>
             <b> Who manages the funds?</b><br>
-            These funds are managed by a team of Comtinuum Capital Trading experts. <br>
+            These funds are managed by a team of Digital Comtinim Capital experts. <br>
             <br>
-            <b> I wish to invest with Comtinuum Capital Trading but I don't have an any ecurrency account. What should I do?</b><br>
+            <b> I wish to invest with Digital Comtinim Capital but I don't have an any ecurrency account. What should I do?</b><br>
             Chat our Live support for assistance. <br>
             <br>
             <b>How can I withdraw funds?</b><br>
@@ -116,8 +116,8 @@ include('layout/header.php');
                         <div class="col-12">
                             <div class="margin-10px-top footer-social-icons">
                                 <ul>
-                                    <li><a href="https://t.me/Comtinuum Capital Trading" target="_blank"><i class="fab fa-telegram"></i></a></li>
-                                    <li><a href="https://wa.me/message/Comtinuum Capital Trading" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                                    <li><a href="https://t.me/Digital Comtinim Capital" target="_blank"><i class="fab fa-telegram"></i></a></li>
+                                    <li><a href="https://wa.me/message/Digital Comtinim Capital" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -172,7 +172,7 @@ include('layout/header.php');
                             </h5>
                         </div>
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                            <div class="card-body">For now, the minimum investment amount with Comtinuum Capital Trading is $500. The BONUS PLAN has a flexible amount which could be lower or higher than this, but is usually determined by management and/or economic conditions.
+                            <div class="card-body">For now, the minimum investment amount with Digital Comtinim Capital is $500. The BONUS PLAN has a flexible amount which could be lower or higher than this, but is usually determined by management and/or economic conditions.
                             </div>
                         </div>
                     </div>
@@ -228,7 +228,7 @@ include('layout/header.php');
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
-                                Anyone from 18 and above is eligible to open an investment account with Comtinuum Capital Trading.
+                                Anyone from 18 and above is eligible to open an investment account with Digital Comtinim Capital.
                             </div>
                         </div>
                     </div>
@@ -242,7 +242,7 @@ include('layout/header.php');
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
-                                Comtinuum Capital Trading operates a zero-commission investment system. There are therefore no fees attached to investing with us.
+                                Digital Comtinim Capital operates a zero-commission investment system. There are therefore no fees attached to investing with us.
                             </div>
                         </div>
                     </div>
@@ -277,7 +277,7 @@ include('layout/header.php');
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">My husband and I
                     have tried a couple of investment companies in the past; many couldn't deliver on their promises,
-                    so when we tried Comtinuum Capital Trading, i didn't really expect much, but when we started seeing our profits
+                    so when we tried Digital Comtinim Capital, i didn't really expect much, but when we started seeing our profits
                     I was so excited I had to tell all my friends. Thank you.
                 </p>
                 <img src="img/testmonials/t-1.jpg" class="rounded-circle" alt="" />
@@ -287,7 +287,7 @@ include('layout/header.php');
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">Investing is necessary!
                     Working for a paycheck all your life is no good, especially at retirement. This realization led
-                    me to seek out ways to increase my savings, and that's when I found Comtinuum Capital Trading. Payouts are
+                    me to seek out ways to increase my savings, and that's when I found Digital Comtinim Capital. Payouts are
                     amazingly fast and easy!.
                 </p>
                 <img src="img/testmonials/t-2.jpg" class="rounded-circle" alt="" />
@@ -296,7 +296,7 @@ include('layout/header.php');
             </div>
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">As a researcher, I spend time mostly
-                    in the field, seeking answers. Having an investment with Comtinuum Capital Trading has assured me steady weekly
+                    in the field, seeking answers. Having an investment with Digital Comtinim Capital has assured me steady weekly
                     income in terms of profits from my investment.
                     I recommend this company!.
                 </p>

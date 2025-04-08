@@ -36,7 +36,7 @@
             <p>We are pleased to inform you that a withdrawal of ${{ number_format($withdrawal_amount) }} has been successfully processed from your account.</p>
             <p>Your updated account balance is now ${{ number_format($user->walletbalance) }}.</p>
             <p>Thank you for choosing our services!</p>
-            <p>Sincerely,<br> Comtinuum Capital Trading</p>
+            <p>Sincerely,<br> Digital Comtinim Capital</p>
         </div>
     </div>
 </body>

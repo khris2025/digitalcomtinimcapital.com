@@ -36,7 +36,7 @@
             <p>We regret to inform you that the deposit of ${{ number_format($deposit_amount) }} to your account was not successful.</p>
             <p>Your account balance remains unchanged.</p>
             <p>Please feel free to contact our support if you have any questions or concerns.</p>
-            <p>Sincerely,<br> Comtinuum Capital Trading</p>
+            <p>Sincerely,<br> Digital Comtinim Capital</p>
         </div>
     </div>
 </body>

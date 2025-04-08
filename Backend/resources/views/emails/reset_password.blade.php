@@ -45,7 +45,7 @@
             <p><a class="button" href="{{ route('confirm_password_token', ['token' => $token]) }}">Reset Password</a></p>
             <p>If you did not request a password reset, no further action is required.</p>
             <p>Thank you for choosing our services!</p>
-            <p>Sincerely,<br> Comtinuum Capital Trading</p>
+            <p>Sincerely,<br> Digital Comtinim Capital</p>
         </div>
     </div>
 </body>

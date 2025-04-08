@@ -19,8 +19,8 @@ include('layout/header.php');
         <div class="row">
             <div class="col-lg-6 col-md-12 sm-margin-30px-bottom">
                 <div class="padding-30px-right">
-                    <h4 class="font-weight-600">About Comtinuum Capital Trading</h4>
-                    <p class="margin-10px-bottom"><span class="font-weight-600">Comtinuum Capital Trading is an investment company</span> offering blockchain-based assets such as cryptocurrencies, as well as Forex, Stocks, and Exchange Traded Funds to its clients, who include individual, group, and institutional investors. Comtinuum Capital Trading is licensed to trade digital assets to clients in over 147 countries around the world. Our offered assets bring high returns for our clients, who have trusted us for over 6 years now.
+                    <h4 class="font-weight-600">About Digital Comtinim Capital</h4>
+                    <p class="margin-10px-bottom"><span class="font-weight-600">Digital Comtinim Capital is an investment company</span> offering blockchain-based assets such as cryptocurrencies, as well as Forex, Stocks, and Exchange Traded Funds to its clients, who include individual, group, and institutional investors. Digital Comtinim Capital is licensed to trade digital assets to clients in over 147 countries around the world. Our offered assets bring high returns for our clients, who have trusted us for over 6 years now.
                     </p>
                     <p class="no-margin-bottom">As a company, we are committed to ensuring our clients are satisfied and get the best out of their investments. Our platform is a secure, robust, and easy-to-use interface that allow users easily and quickly create an account and start out on a rewarding financial journey.</p>
                     <p>We hold a record for excellence and client satisfaction. We deliver on our promise and we will always hold our records high.</p>
@@ -243,7 +243,7 @@ include('layout/header.php');
                             </h5>
                         </div>
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                            <div class="card-body">For now, the minimum investment amount with Comtinuum Capital Trading is $500. The BONUS PLAN has a flexible amount which could be lower or higher than this, but is usually determined by management and/or economic conditions.
+                            <div class="card-body">For now, the minimum investment amount with Digital Comtinim Capital is $500. The BONUS PLAN has a flexible amount which could be lower or higher than this, but is usually determined by management and/or economic conditions.
                             </div>
                         </div>
                     </div>
@@ -299,7 +299,7 @@ include('layout/header.php');
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
-                                Anyone from 18 and above is eligible to open an investment account with Comtinuum Capital Trading.
+                                Anyone from 18 and above is eligible to open an investment account with Digital Comtinim Capital.
                             </div>
                         </div>
                     </div>
@@ -313,7 +313,7 @@ include('layout/header.php');
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
-                                Comtinuum Capital Trading operates a zero-commission investment system. There are therefore no fees attached to investing with us.
+                                Digital Comtinim Capital operates a zero-commission investment system. There are therefore no fees attached to investing with us.
                             </div>
                         </div>
                     </div>
@@ -348,7 +348,7 @@ include('layout/header.php');
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">My husband and I
                     have tried a couple of investment companies in the past; many couldn't deliver on their promises,
-                    so when we tried Comtinuum Capital Trading, i didn't really expect much, but when we started seeing our profits
+                    so when we tried Digital Comtinim Capital, i didn't really expect much, but when we started seeing our profits
                     I was so excited I had to tell all my friends. Thank you.
                 </p>
                 <img src="img/testmonials/t-1.jpg" class="rounded-circle" alt="" />
@@ -358,7 +358,7 @@ include('layout/header.php');
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">Investing is necessary!
                     Working for a paycheck all your life is no good, especially at retirement. This realization led
-                    me to seek out ways to increase my savings, and that's when I found Comtinuum Capital Trading. Payouts are
+                    me to seek out ways to increase my savings, and that's when I found Digital Comtinim Capital. Payouts are
                     amazingly fast and easy!.
                 </p>
                 <img src="img/testmonials/t-2.jpg" class="rounded-circle" alt="" />
@@ -367,7 +367,7 @@ include('layout/header.php');
             </div>
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">As a researcher, I spend time mostly
-                    in the field, seeking answers. Having an investment with Comtinuum Capital Trading has assured me steady weekly
+                    in the field, seeking answers. Having an investment with Digital Comtinim Capital has assured me steady weekly
                     income in terms of profits from my investment.
                     I recommend this company!.
                 </p>

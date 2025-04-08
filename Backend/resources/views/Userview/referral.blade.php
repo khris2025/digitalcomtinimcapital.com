@@ -57,7 +57,7 @@
                       </script>
                       <div class="row">
                         <div class="col-md-8">
-                            <input type="text" id="myInput" class="form-control" value="{{ 'https://dash.comtinuumcapitaltrading.com/register' . '?ref=' . Auth::user()->referral_code }}" readonly>
+                            <input type="text" id="myInput" class="form-control" value="{{ 'https://dashboard.digitalcomtinimcapital.com/register' . '?ref=' . Auth::user()->referral_code }}" readonly>
                         </div>
                         <div class="col-md-4">
                             <button type="button" onclick="myFunction()" class="btn light btn-sm btn-primary mt-1">

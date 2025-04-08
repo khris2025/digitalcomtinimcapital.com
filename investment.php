@@ -219,7 +219,7 @@ include('layout/header.php');
 <section id="whychooseus" class="bg-light-gray">
     <div class="container">
         <div class="section-heading">
-            <h3 class="font-weight-600">Why Choose Comtinuum Capital Trading</h3>
+            <h3 class="font-weight-600">Why Choose Digital Comtinim Capital</h3>
         </div>
         <div class="row">
             <div class="col-12">
@@ -290,7 +290,7 @@ include('layout/header.php');
                                         <div class="padding-30px-left md-padding-20px-left sm-no-padding-left">
                                             <h5>Commission-Free Investing</h5>
                                             <p>Commission-free trades are everywhere, but the smart investors are here.</p>
-                                            <p>Value is so much more than a price tag. With Comtinuum Capital Trading, not only can you invest commission-free online, but you get access to all our platforms and products with no extra charges, trading limits, or hidden fees.</p>
+                                            <p>Value is so much more than a price tag. With Digital Comtinim Capital, not only can you invest commission-free online, but you get access to all our platforms and products with no extra charges, trading limits, or hidden fees.</p>
                                             <p>To us, it's not just about commission-free, but that we build a relation of trust on this basis.</p>
                                         </div>
                                     </div>
@@ -469,7 +469,7 @@ include('layout/header.php');
                             </h5>
                         </div>
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                            <div class="card-body">For now, the minimum investment amount with Comtinuum Capital Trading is $500. The BONUS PLAN has a flexible amount which could be lower or higher than this, but is usually determined by management and/or economic conditions.
+                            <div class="card-body">For now, the minimum investment amount with Digital Comtinim Capital is $500. The BONUS PLAN has a flexible amount which could be lower or higher than this, but is usually determined by management and/or economic conditions.
                             </div>
                         </div>
                     </div>
@@ -525,7 +525,7 @@ include('layout/header.php');
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
-                                Anyone from 18 and above is eligible to open an investment account with Comtinuum Capital Trading.
+                                Anyone from 18 and above is eligible to open an investment account with Digital Comtinim Capital.
                             </div>
                         </div>
                     </div>
@@ -539,7 +539,7 @@ include('layout/header.php');
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
-                                Comtinuum Capital Trading operates a zero-commission investment system. There are therefore no fees attached to investing with us.
+                                Digital Comtinim Capital operates a zero-commission investment system. There are therefore no fees attached to investing with us.
                             </div>
                         </div>
                     </div>
@@ -574,7 +574,7 @@ include('layout/header.php');
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">My husband and I
                     have tried a couple of investment companies in the past; many couldn't deliver on their promises,
-                    so when we tried Comtinuum Capital Trading, i didn't really expect much, but when we started seeing our profits
+                    so when we tried Digital Comtinim Capital, i didn't really expect much, but when we started seeing our profits
                     I was so excited I had to tell all my friends. Thank you.
                 </p>
                 <img src="img/testmonials/t-1.jpg" class="rounded-circle" alt="" />
@@ -584,7 +584,7 @@ include('layout/header.php');
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">Investing is necessary!
                     Working for a paycheck all your life is no good, especially at retirement. This realization led
-                    me to seek out ways to increase my savings, and that's when I found Comtinuum Capital Trading. Payouts are
+                    me to seek out ways to increase my savings, and that's when I found Digital Comtinim Capital. Payouts are
                     amazingly fast and easy!.
                 </p>
                 <img src="img/testmonials/t-2.jpg" class="rounded-circle" alt="" />
@@ -593,7 +593,7 @@ include('layout/header.php');
             </div>
             <div class="testmonial-single center-col width-65 sm-width-90 margin-20px-bottom xs-margin-10px-bottom">
                 <p class="margin-40px-bottom sm-margin-35px-bottom xs-margin-30px-bottom">As a researcher, I spend time mostly
-                    in the field, seeking answers. Having an investment with Comtinuum Capital Trading has assured me steady weekly
+                    in the field, seeking answers. Having an investment with Digital Comtinim Capital has assured me steady weekly
                     income in terms of profits from my investment.
                     I recommend this company!.
                 </p>
