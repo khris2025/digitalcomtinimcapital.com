@@ -28,9 +28,8 @@
                <div class="col-lg-6">
                   <div class="card-body p-md-5 mx-md-4">
                      <div class="text-center">
-                        <!--<img src="{{ asset('assets/images/bit-blockdigital_images/logomain.png') }}"-->
-                        <!--   style="width: 185px;" alt="logo">-->
-                        {{-- <h4 class="mt-1 mb-5 pb-1">We are The Lotus Team</h4> --}}
+                        {{-- <img src="{{ asset('assets/images/tesla_logo.png') }}"
+                        style="width: 185px;" alt="logo"> --}}
                      </div>
                      @if(session('success'))
                      <div class="alert alert-success">
@@ -55,8 +54,31 @@
                         </div>
                         <div class="form-outline mb-4">
                            <label class="form-label" for="form2Example22">Password</label>
-                           <input type="password" name="password" id="form2Example22" class="form-control" />
+                           <div class="input-group">
+                              <input type="password" name="password" id="password" class="form-control" />
+                              <div class="input-group-append">
+                                 <span class="input-group-text" onclick="togglePasswordVisibility()">
+                                    <i class="fa fa-eye" id="togglePasswordIcon"></i>
+                                 </span>
+                              </div>
+                           </div>
                         </div>
+
+                        <script>
+                           function togglePasswordVisibility() {
+                              const passwordField = document.getElementById('password');
+                              const togglePasswordIcon = document.getElementById('togglePasswordIcon');
+                              if (passwordField.type === 'password') {
+                                 passwordField.type = 'text';
+                                 togglePasswordIcon.classList.remove('fa-eye');
+                                 togglePasswordIcon.classList.add('fa-eye-slash');
+                              } else {
+                                 passwordField.type = 'password';
+                                 togglePasswordIcon.classList.remove('fa-eye-slash');
+                                 togglePasswordIcon.classList.add('fa-eye');
+                              }
+                           }
+                        </script>
                         <a class="text-muted" href="forgot_password">Forgot password? Click Me</a>
                         <br>
                         <br>

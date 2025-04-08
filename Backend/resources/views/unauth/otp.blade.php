@@ -1,25 +1,23 @@
 @extends('unauth.layout.index')
 @section('content')
-
 @error('message')
-   <script>
-      Swal.fire({
-      icon: 'error',
-      title: 'Oops...',
-      text: @json($message),
-      });
-   </script>
+<script>
+   Swal.fire({
+   icon: 'error',
+   title: 'Oops...',
+   text: @json($message),
+   });
+</script>
 @enderror
 @if(session('success'))
-   <script>
-      Swal.fire({
-         icon: 'success',
-         title: 'Success',
-         text: @json(session('success')),
-      });
-   </script>
+<script>
+   Swal.fire({
+       icon: 'success',
+       title: 'Success',
+       text: @json(session('success')),
+   });
+</script>
 @endif
-
 <div class="container py-5 h-100">
    <div class="row d-flex justify-content-center align-items-center h-100">
       <div class="col-xl-10">
@@ -28,8 +26,7 @@
                <div class="col-lg-6">
                   <div class="card-body p-md-5 mx-md-4">
                      <div class="text-center">
-                       {{-- <img src="{{ asset('assets/images/tesla_logo.png') }}"
-                        style="width: 185px;" alt="logo"> --}}
+                        <!-- img space -->
                      </div>
                      @if(session('success'))
                      <div class="alert alert-success">
@@ -45,16 +42,23 @@
                         </ul>
                      </div>
                      @endif
-                     <form action="{{ route('forgot_password_email') }}" method="POST">
+                     <form action="{{ route('otp.verify') }}" method="POST">
                         @csrf
-                        <p>Request for Password reset Link</p>
+                        <p>Please enter the One-Time Password (OTP) sent to your registered email address.</p>
                         <div class="form-outline mb-4">
-                           <label class="form-label" for="form2Example22">Email</label>
-                           <input type="email" id="form2Example22" name="email" class="form-control" value="{{ old('email') }}"/>
+                           <label class="form-label" for="otp">OTP</label>
+                           <input type="number" id="otp" name="otp" class="form-control" maxlength="6" />
                         </div>
-                        <input type="submit" value="Request Link" class="btn btn-outline-danger">
+                        <a class="text-muted" href="{{ route('resendOtp') }}">Didn't receive the OTP? Resend</a>
+                        <br>
+                        <br>
+                        <input type="submit" value="Verify OTP" class="btn btn-outline-danger">
+                        <hr>
                      </form>
                   </div>
+               </div>
+               <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
+                 
                </div>
             </div>
          </div>

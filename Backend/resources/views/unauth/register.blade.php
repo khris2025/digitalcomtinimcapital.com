@@ -27,9 +27,8 @@
             <div class="card-body p-md-5 mx-md-4">
 
                 <div class="text-center">
-                <!--<img src="{{ asset('assets/images/bit-blockdigital_images/logomain.png') }}"-->
-                <!--    style="width: 185px;" alt="logo">-->
-                {{-- <h4 class="mt-1 mb-5 pb-1">We are The Lotus Team</h4> --}}
+                    {{-- <img src="{{ asset('assets/images/tesla_logo.png') }}"
+                    style="width: 185px;" alt="logo"> --}}
                 </div>
                 
                 <form action="{{ route('registerUser') }}" method="POST">
@@ -341,13 +340,43 @@
 
                 <div class="form-outline mb-4">
                     <label class="form-label" for="form2Example22">Password</label>
-                    <input type="password" name="password" id="form2Example22" class="form-control" />
+                    <div class="input-group">
+                        <input type="password" name="password" id="password" class="form-control" />
+                        <div class="input-group-append">
+                            <span class="input-group-text" onclick="togglePasswordVisibility('password')">
+                                <i class="fa fa-eye" id="togglePasswordIcon"></i>
+                            </span>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="form-outline mb-4">
                     <label class="form-label" for="form2Example22">Confirm Password</label>
-                    <input type="password" name="confirm_password" id="form2Example22" class="form-control" />
+                    <div class="input-group">
+                        <input type="password" name="confirm_password" id="confirm_password" class="form-control" />
+                        <div class="input-group-append">
+                            <span class="input-group-text" onclick="togglePasswordVisibility('confirm_password')">
+                                <i class="fa fa-eye" id="toggleConfirmPasswordIcon"></i>
+                            </span>
+                        </div>
+                    </div>
                 </div>
+
+                <script>
+                    function togglePasswordVisibility(fieldId) {
+                        const field = document.getElementById(fieldId);
+                        const icon = field.nextElementSibling.querySelector('i');
+                        if (field.type === 'password') {
+                            field.type = 'text';
+                            icon.classList.remove('fa-eye-slash');
+                            icon.classList.add('fa-eye');
+                        } else {
+                            field.type = 'password';
+                            icon.classList.remove('fa-eye');
+                            icon.classList.add('fa-eye-slash');
+                        }
+                    }
+                </script>
                 <input type="submit" value="Get Started" class="btn btn-outline-danger">
                 <hr>
 

@@ -28,9 +28,8 @@
                <div class="col-lg-6">
                   <div class="card-body p-md-5 mx-md-4">
                      <div class="text-center">
-                        <!--<img src="{{ asset('assets/images/bit-blockdigital_images/logomain.png') }}"-->
-                           style="width: 185px;" alt="logo">
-                        {{-- <h4 class="mt-1 mb-5 pb-1">We are The Lotus Team</h4> --}}
+                       {{-- <img src="{{ asset('assets/images/tesla_logo.png') }}"
+                        style="width: 185px;" alt="logo"> --}}
                      </div>
                      @if(session('success'))
                      <div class="alert alert-success">
@@ -52,13 +51,43 @@
                         <p>Reset Password</p>
                         <div class="form-outline mb-4">
                            <label class="form-label" for="form2Example22">New Password</label>
-                           <input type="password" id="form2Example22" name="password" class="form-control" value="{{ old('email') }}"/>
+                           <div class="input-group">
+                             <input type="password" id="new_password" name="password" class="form-control" value="{{ old('email') }}"/>
+                             <div class="input-group-append">
+                               <span class="input-group-text" onclick="togglePasswordVisibility('new_password')">
+                                 <i class="fa fa-eye" id="toggleNewPassword"></i>
+                               </span>
+                             </div>
+                           </div>
                         </div>
 
                         <div class="form-outline mb-4">
-                            <label class="form-label" for="form2Example22">Confirm Password</label>
-                            <input type="password" id="form2Example22" name="password_confirmation" class="form-control" value="{{ old('email') }}"/>
+                           <label class="form-label" for="form2Example22">Confirm Password</label>
+                           <div class="input-group">
+                              <input type="password" id="confirm_password" name="password_confirmation" class="form-control" value="{{ old('email') }}"/>
+                              <div class="input-group-append">
+                                <span class="input-group-text" onclick="togglePasswordVisibility('confirm_password')">
+                                  <i class="fa fa-eye" id="toggleConfirmPassword"></i>
+                                </span>
+                              </div>
+                           </div>
                         </div>
+
+                        <script>
+                           function togglePasswordVisibility(fieldId) {
+                             var field = document.getElementById(fieldId);
+                             var icon = field.nextElementSibling.querySelector('i');
+                             if (field.type === "password") {
+                               field.type = "text";
+                               icon.classList.remove('fa-eye');
+                               icon.classList.add('fa-eye-slash');
+                             } else {
+                               field.type = "password";
+                               icon.classList.remove('fa-eye-slash');
+                               icon.classList.add('fa-eye');
+                             }
+                           }
+                        </script>
 
 
                         <input type="submit" value="Get Started" class="btn btn-outline-danger">
